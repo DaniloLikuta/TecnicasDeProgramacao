@@ -1,0 +1,266 @@
+DannNome do Jogador: Danilo Victor 
+Quantidade de Bugs: 2
+ Quatidade de Devs: 1
+Horário escolhido:  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\BsesMoleculrsdVida.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\BsesMoleculrsdVida.html
+-----------------------------------------
+Nome do Jogador: teste 
+Quantidade de Bugs: 2
+Quatidade de Devs: 3
+Horário escolhido: selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\Gravações de som\PingAula10.m4a
+-----------------------------------------
+Nome do Jogador: dan 
+Quantidade de Bugs: 1
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: victor 
+Quantidade de Bugs: 24
+Quatidade de Devs: 4
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\segundo.html
+-----------------------------------------
+Nome do Jogador: danilo 
+Quantidade de Bugs: 32
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: Teste 
+Quantidade de Bugs: 1
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+-----------------------------------------
+Nome do Jogador: d 
+Quantidade de Bugs: 2
+Quatidade de Devs: 1
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+-----------------------------------------
+Nome do Jogador: teste121 
+Quantidade de Bugs: 2
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\BsesMoleculrsdVida.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 12
+Quatidade de Devs: 12
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 2
+Quatidade de Devs: 3
+Horário selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: teste 
+Quantidade de Bugs: 2
+Quatidade de Devs: 4
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 2
+Quatidade de Devs: 1
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+-----------------------------------------
+Nome do Jogador: teste 
+Quantidade de Bugs: 2
+Quatidade de Devs: 4
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\sociologiamaisvalia
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
+Nome do Jogador: js 
+Quantidade de Bugs: 12
+Quatidade de Devs: 34
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: teste 
+Quantidade de Bugs: 1
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: teste 
+Quantidade de Bugs: 1
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\BsesMoleculrsdVida.html
+-----------------------------------------
+Nome do Jogador: dan 
+Quantidade de Bugs: 2
+Quatidade de Devs: 1
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+-----------------------------------------
+Nome do Jogador: dan 
+Quantidade de Bugs: 2
+Quatidade de Devs: 1
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 22
+Quatidade de Devs: 22
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Gravações de som\Gravação (3).m4a
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+-----------------------------------------
+Nome do Jogador: da 
+Quantidade de Bugs: 3
+Quatidade de Devs: 1
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+-----------------------------------------
+Nome do Jogador: dan 
+Quantidade de Bugs: 2
+Quatidade de Devs: 1
+Horário selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Gravações de som\Gravação-_2_.aiff
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 122
+Quatidade de Devs: 3
+Horário selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
+Nome do Jogador: dAN 
+Quantidade de Bugs: 2
+Quatidade de Devs: 3
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 3
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+-----------------------------------------
+Nome do Jogador: Dan 
+Quantidade de Bugs: 22
+Quatidade de Devs: 33
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+-----------------------------------------
+Nome do Jogador: Danilo 
+Quantidade de Bugs: 3
+Quatidade de Devs: 2
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
+Nome do Jogador: teste 9:55 
+Quantidade de Bugs: 12
+Quatidade de Devs: 12
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+-----------------------------------------
+Nome do Jogador: Danilo 
+Quantidade de Bugs: 222
+Quatidade de Devs: 333
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\BsesMoleculrsdVida.html
+-----------------------------------------
+Nome do Jogador: teste 10:25 
+Quantidade de Bugs: 333
+Quatidade de Devs: 2222
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
+Nome do Jogador: teste 10:26 
+Quantidade de Bugs: 2232
+Quatidade de Devs: 2323
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\GTA3sf1.b
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: dan  
+Quantidade de Bugs: 121
+Quatidade de Devs: 123
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: teste 10:33 
+Quantidade de Bugs: 212
+Quatidade de Devs: 2133
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\Inkscape\icodiretorioimpre.svg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: teste 10:35 
+Quantidade de Bugs: 234
+Quatidade de Devs: 1233
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: teste 10:37 
+Quantidade de Bugs: 123
+Quatidade de Devs: 12323
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: teste 10:38 
+Quantidade de Bugs: 12
+Quatidade de Devs: 21
+Horário  selecionado: Noite
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: Fisher 
+Quantidade de Bugs: 12
+Quatidade de Devs: 234
+Horário selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+-----------------------------------------
+Nome do Jogador: Fisher  
+Quantidade de Bugs: 12
+Quatidade de Devs: 12
+Horário selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\1ATV.HTML
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\htmls\ataaaa.html
+-----------------------------------------
+Nome do Jogador: Fisher 20:26 
+Quantidade de Bugs: 12
+Quatidade de Devs: 12
+Horário selecionado: Dia
+Skin selecionada BUG: C:\Users\xc23x\OneDrive\Documentos\htmls\astrolua (3).jpg
+Skin selecionada Dev:C:\Users\xc23x\OneDrive\Documentos\GTA3 User Files\gta3.set
+-----------------------------------------
